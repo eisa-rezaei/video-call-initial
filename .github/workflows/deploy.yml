@@ -23,9 +23,8 @@ jobs:
           CI: true
 
       - name: Deploy 🚀
-        uses: JamesIves/github-pages-deploy-action@v4
+        uses: JamesIves/github-pages-deploy-action@v4.4.1
         with:
-          ssh-key: ${{ secrets.DEPLOY_KEY }}
           BRANCH: gh-pages
           FOLDER: build
           CLEAN: true # Automatically remove deleted files from the deploy branch
