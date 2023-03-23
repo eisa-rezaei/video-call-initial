@@ -1,0 +1,5 @@
+export const ActionTypes = {
+  SEND_MSG: "SEND_MSG",
+  SET_IS_TYPING: "SET_IS_TYPING",
+  REMOVE_IS_TYPING: "REMOVE_IS_TYPING",
+};
