@@ -1,0 +1,2 @@
+(this["webpackJsonpvideo-call-app"]=this["webpackJsonpvideo-call-app"]||[]).push([[10],{223:function(e,n,t){"use strict";t.r(n);t(1);var i,c=t(8),p=t(9).c.article(i||(i=Object(c.a)(["\n  width: 100%;\n  min-height: 95vh;\n  padding: 15px;\n  border-left: 2px solid #f0f0f0;\n  border-radius: 20px;\n  display: flex;\n  align-items: center;\n  justify-content: center;\n"]))),r=t(4);n.default=function(){return Object(r.jsx)(p,{children:Object(r.jsx)("h1",{children:"Speed"})})}}}]);
+//# sourceMappingURL=10.de96b44a.chunk.js.map
